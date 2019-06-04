@@ -7,3 +7,4 @@ d=10
 x=0
 print("hello")
 print("yes")
+print("hi")
