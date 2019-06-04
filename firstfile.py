@@ -5,4 +5,5 @@ print(a,b)
 c=10
 d=10
 x=0
+print("hello")
 
