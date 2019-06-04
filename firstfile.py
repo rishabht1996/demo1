@@ -4,4 +4,5 @@ print("c=",a+b)
 print(a,b)
 c=10
 d=10
+x=0
 
